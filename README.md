@@ -1,4 +1,4 @@
-# Predictoing Question Relevance in Visual Question Answering
+# Predicting Question Relevance in Visual Question Answering
 
 Dataset Used : MSCOCO
 
